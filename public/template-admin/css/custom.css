@@ -1,0 +1,68 @@
+.profile-picture{
+    height: 250px;
+    width: 250px;
+    border: 1px solid #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 0;
+}
+
+.sidebar-dark .nav-item .nav-link {
+  color: rgba(255, 255, 255, 0.747);
+}
+
+.sidebar-dark .nav-item.active .nav-link {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.sidebar-dark .sidebar-heading {
+  color: white;
+  font-size: 12px;
+}
+
+.table{
+  color: #51535f;
+}
+
+.table-hover tbody tr:hover {
+  color: #000000;
+}
+
+.text-success{
+  color: #28a745;
+}
+
+.alert-info{
+  color: black;
+}
+
+.alert-success{
+  color: black;
+  background-color: #a6fadd;
+}
+
+h6{
+  color: #5a5c69;
+}
+
+label{
+  color: #5a5c69;
+  font-weight: 600;
+}
+
+.tambah-kendaraan{
+  height: 250px;
+  width: 400px;
+  border: 1px solid #bbb;
+  display: inline-block;
+  padding: 0;
+}
+
+.tambah-paket-wisata{
+  height: 450px;
+  width: 350px;
+  border: 1px solid #bbb;
+  display: inline-block;
+  padding: 0;
+}
